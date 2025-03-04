@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-07
+Transaction Time: 00:07:34
+-----------------------------------------
+Transacted By: madam
+-----------------------------------------
+Items:
+HAPPY PANTS XXL X 4  - 2 x 47
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 100
+-----------------------------------------
+Total: 94.00
+Change: 6
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

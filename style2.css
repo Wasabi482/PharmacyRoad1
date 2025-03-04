@@ -1,0 +1,805 @@
+*{
+    border: none !important;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: none;
+    padding: none;
+    overflow-x: hidden;
+}
+.navbar-title{
+    padding-top: 5px;
+    height: 50px;
+}
+.logo-image-navbar{
+    width: 30px;
+    height: auto;
+    filter: brightness(1.53) contrast(1.5);
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+    z-index: 3;
+
+}
+.collapse{
+    position: relative;
+    right: 5%;
+}
+.navbar-links{
+    position: absolute;
+    padding-left: 10px !important;
+}
+.headings{
+    display: inline-block;
+    font-size: 24px;
+    z-index: 3;
+  }
+  
+  .quote1{
+    overflow: hidden;
+    white-space: nowrap;
+    width: 0;
+    animation: typing;
+    animation-duration: 1.5s;
+    animation-timing-function: steps(30, end);
+    animation-fill-mode: forwards;
+  }
+  .quote2{
+    overflow: hidden;
+    white-space: nowrap;
+    width: 0;
+    animation: typing;
+    animation-delay: 2s;
+    animation-duration: 1.5s;
+    animation-timing-function: steps(30, end);
+    animation-fill-mode: forwards;
+  }
+
+    
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+.navbar-links{
+    margin-left: 70%;
+}
+
+.carousel{
+    position: relative;
+    object-fit: cover;
+
+}
+.carouselimg{
+    position: relative;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.carousel-img1{
+    position: relative;
+    height: 600px; 
+    background-image:url(https://images.pexels.com/photos/5910953/pexels-photo-5910953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+.carousel-img2{
+    position: relative;
+    height: 600px; 
+    background-image:url(https://images.pexels.com/photos/8770732/pexels-photo-8770732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.carousel-img3{
+    position: relative;
+    height: 600px; 
+    background-image:url(https://images.pexels.com/photos/3873206/pexels-photo-3873206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    z-index: -1;
+}
+.head-cont{
+    background:linear-gradient(to right, #9BFABC, transparent 80%);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+.headings{
+    position: absolute;
+    z-index: 3;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.headings h1{
+    font-size: 40px;
+    font-weight: bold;
+    z-index: 3;
+}
+.frontpage{
+    height: 500px;
+    position: relative;
+}
+.section1{
+    z-index: -2;
+}
+.about-us1{
+    padding-top: 15px;
+    position: relative;
+    height: 400px;
+    z-index: 2;
+}
+
+.about-us2{
+    height: 250px;
+    position: relative;
+    z-index: 1;
+}
+
+.box{
+    position: relative;
+    box-shadow: 0px 0px 10px 2px #888888;
+    z-index: 3;
+    border-radius: 10px;
+    background-color: white;
+    transform: scale(1);
+    
+}
+
+.card-title{
+    margin-left: 10px;
+}
+.card-text{
+    margin-left: 10px;
+}
+.card-button{
+    background-color: #6ACEF7;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+}
+.card-button:hover{
+    background-color: #e0f4fc;
+}
+.firstboxes{
+    height: 350px;
+    transform: scale(1);
+}
+.box:hover{
+    transform: scale(0.9);
+}
+
+.section2{
+    height: 500px;
+    background-color: #d8ffeb;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.custom-shape-divider-bottom-1717300047 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1717300047 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 215px;
+    transform: rotateY(180deg);
+    z-index: -1;
+}
+
+.custom-shape-divider-bottom-1717300047 .shape-fill {
+    fill: #d8ffeb;
+}
+.hex{
+    position: absolute;
+    z-index: 0;
+}
+.hexagon1{
+    position: absolute;
+    margin-top: 800px;
+    right: 0%;
+    opacity: .2;
+    z-index: 0;
+}
+.hexagon2{
+    position: absolute;
+    margin-top: 50px;
+    left: 0%;
+    opacity: .2;
+}
+
+.captions{
+    margin-bottom: 50px;
+    margin-top: 100px;
+    z-index: 0;
+}
+.card-title{
+    margin-top: 30px;
+}
+.carousel-buttons{
+    width: 1000px;
+}
+.square-button{
+    position: relative;
+    height: 250px;
+    z-index: 0;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+    width: 100%;
+    margin-top: 50px;
+}
+.box-button{
+    border: solid red !important;
+    position: relative;
+    background-color:white;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.custom-shape-divider-bottom-1717314319 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    z-index: 3;
+}
+
+.custom-shape-divider-bottom-1717314319 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+    transform: rotateY(180deg);
+    z-index: 3;
+}
+
+.custom-shape-divider-bottom-1717314319 .shape-fill {
+    fill: #FFFFFF;
+}
+.footer{
+    max-height: 100%;
+    width: 100%;
+    background-color:#E29578;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+
+}
+
+footer a{
+    color: white;
+}
+.inner-footer{
+    border-top: outset 1px white !important;
+    padding-top: 10px;
+    width: 100%;
+    justify-content: center;
+}
+
+.footer-h1{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.footer-logo{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+    filter: brightness(1.53) contrast(1.5);
+}
+.gmaps{
+    border:0; 
+    border-radius:20px;
+    width:300px;
+    height:130px;
+}
+i{
+    font-size: 50px;
+} 
+.icon{
+    font-size: 50px;
+    position: absolute;
+    margin-top: 70px;
+}
+
+.card-color{
+    width: 100%;
+    text-align: right;
+    color: white;
+    background-color: #Ed3c5a;
+}
+
+.icolors{
+    margin-top: 60px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #6ACEF7;
+    position: absolute;
+    z-index: -1;
+}
+
+
+.products{
+    margin-top: 20px;
+}
+
+.ai-chatbot{
+    position: fixed;
+    z-index: 2;
+    width: 100px;
+    height: 100px;
+    bottom: 2%;
+    right: 0%;
+}
+.chatbot-circle{
+    position: fixed;
+    display: flex;
+    border-radius: 75%;
+    width: 70px;
+    height: 70px;
+    background-color: #Ed3c5a;
+    justify-content: center;
+    z-index: 6;
+}
+.chatbot-circle:hover{
+    background-color: #f18b9c;
+}
+.chaticon{
+    font-size: 38px;
+}
+
+#chat_body {
+    font-family: Arial, sans-serif;
+}
+
+.chat-container {
+    position: relative;
+    width: 95%;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    background-color:white;
+    padding: 10px;
+    border-radius: 10px;
+    height: 90%;
+    z-index: -1;
+}
+.chat-container h2 {
+    margin-top: 0;
+    color: #Ed3c5a;
+}
+
+.chat-messages {
+    margin-bottom: 1px;
+    overflow-y: scroll;
+    max-height: 150px;
+}
+
+.user-message {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: black;
+}
+
+.bot-message {
+    margin-bottom: 10px;
+    font-style: italic;
+    color: #2C6E49;
+}
+
+#med_list, #vit_list, #flu_list, #kid_list, #dia_list {
+    position: fixed;
+    top: 13%;
+    left: 13%;
+    z-index: 5; /* Add this line */
+    background-color: white;
+    width: 73vw;
+    height: 500px;
+    border-radius: 10px;
+
+}
+
+#med_list i, #vit_list i, #flu_list i, #kid_list i, #dia_list i {
+    font-size: 25px;
+    position: absolute;
+    color: #Ed3c5a;
+    right: 1%;
+    z-index: 1;
+}   
+
+
+.chatbot{
+    width: 100px;
+    height: 100px;
+}
+.users{
+    box-shadow: 0px 0px 10px 2px #888888;
+    z-index: 2;
+}
+
+#chatbox{
+    position: fixed;
+    bottom: 20px;
+    right: 120px;
+    width: 500px;
+    height: 400px;
+    background-color: #Ed3c5a;
+    padding: 10px;
+    display: none;
+    border-radius: 10px;
+    z-index: 6;
+}
+#chatbox a{
+    border: none;
+    position: absolute;
+    top :0;
+    right: 10px;
+}
+#chat-form{
+    display: flex;
+    position: absolute;
+    bottom: 25px;
+    width: 95%;
+    margin-top: 20px;
+}
+#chat-form button{
+    width: 20%;
+    border: 1px solid #ccc;
+    color : white;
+    background-color: #37393A;
+    border-radius: 5px;
+}
+
+#chat-form input{
+    width: 90%;
+    color:  black;
+    background-color: white;
+}
+
+#chatbox i{
+    font-size: 25px;
+    position: absolute;
+    margin-right: -5px;
+    color: white;
+    right: 0%;
+}
+
+@media only screen and (max-width: 1200px) {
+    .headings{
+        margin-left: 100px;
+    }
+    .frontpage{
+        height: auto;
+    }
+    .about-us1{
+        height: 400px;
+    
+    }
+    .about-us2{
+        height: 200px;
+    }
+    .footer-cont{
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .headings{
+        margin-left: 50px;
+    }
+    .frontpage{
+        height: auto;
+    }
+    .about-us1{
+        height: 600px;
+    
+    }
+    .about-us2{
+        height: 200px;
+    }
+    .section2{
+        height: 500px;
+    }
+    .footer-cont{
+       height: auto;
+    }
+    .footer{
+        justify-content: center;
+        height: 100%;
+    }
+    .gmaps{
+        border:0; 
+        border-radius:20px;
+        width:200px;
+        height:130px;
+    }
+    .navbar-title{
+        width: 180px;
+    }
+
+    .navbar-title a{
+        font-size: 15px;
+    }
+    .logo-image-navbar{
+        margin-left: 0 !important;
+    }
+    .headings h1{
+        font-size: 30px;
+    }
+    .logo-image-navbar{
+        margin-top: 0px;
+    
+    }
+    .navbar-toggler{
+        position: fixed;
+        right: 5%;
+        width: 50px;
+    }
+    .navbar-collapse{
+        padding:0% ;
+        position: relative;
+        align-items: baseline;
+    }
+    .navbar-nav{
+        position: absolute;
+        right: 1%;
+        padding-left: 10px;
+        border-radius: 10px;
+        width: 100px;
+        background-color: white;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .headings{
+        margin-left: 10px;
+    }
+    .frontpage{
+        overflow: hidden;
+        height: auto;
+    }
+
+    .section2{
+        height: 800px;
+    }
+    .about-us1{
+        height: 600px;
+    
+    }
+    .about-us2{
+        height: 200px;
+    }
+
+    .footer {
+        text-align: center;
+    }
+    
+    .inner-footer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; /* Centers the columns horizontally */
+        align-items: center; /* Centers the content vertically */
+    }
+    .ai-chatbot{
+        width: 50px;
+        height: 50px;
+        bottom: 3%;
+        right: 5%;
+    }
+    .chatbot-circle{
+        width: 60px;
+        height: 60px;
+    }
+    .chaticon{
+        font-size: 35px;
+        z-index: 6;
+    }
+    #chatbox{
+        width: 300px;
+        height: 500px;
+    }
+    #chat-form button{
+        width: 20%;
+    }
+    
+    #chat-form input{
+        width: 80%;
+
+    }
+    
+    #med_list {
+        width: 80%;
+        overflow: scroll;
+    }
+    #vit_list{
+
+        width: 80%;
+        overflow: scroll;
+    }
+    #flu_list{
+
+        width: 80%;
+        overflow: scroll;
+    }
+
+    #kid_list{
+    
+        width: 80%;
+        overflow: scroll;
+    }
+    #dia_list{
+
+        width: 80%;
+        overflow: scroll;
+    }
+    
+    
+    .footer-header, .footer-maps, .footer-contacts {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .footer-logo {
+        max-width: 100%;
+        height: auto;
+    }
+    #chatbox{
+        bottom: 20px;
+        right: 100px;
+    }   
+    .chat-container {
+        position: relative;
+    }
+
+    .gmaps{
+        width: 500px;
+    }
+
+@media only screen and (max-width: 576px) {
+    .firstboxes{
+        height: 250px;
+        margin-bottom: 30px;
+    }
+    .frontpage{
+        height: auto;
+    }
+    
+    .section2{
+        height: 1300px;
+    }
+    .about-us1{
+        height: 800px;
+    
+    }
+    .about-us2{
+        height: 800px;
+    }
+    .footer-cont{
+       height: auto;
+    }
+    .footer{
+        justify-content: center;
+    }
+    .gmaps{
+        width: 300px;
+    }
+    
+}
+@media only screen and (max-width: 430px) {
+    .firstboxes{
+        height:350px;
+        margin-bottom: 30px;
+    }
+    body{
+        width: 100%;
+    }
+    .frontpage{
+        height: auto;
+        width: 100%;
+    }
+    .headings h1{
+        font-size: 20px;
+    }
+    
+    .section2{
+        height: 1300px;
+    }
+    .about-us1{
+        height: 1100px;
+    
+    }
+    .about-us2{
+        height: 800px;
+    }
+    .footer-cont{
+       height: auto;
+    }
+    .footer{
+        justify-content: center;
+    }
+    #med_list {
+        left: 0;
+        width: 100%;
+        overflow: scroll;
+    }
+    #vit_list{
+        left: 0;
+        width: 100%;
+        overflow: scroll;
+    }
+    #flu_list{
+        left: 0;
+        width: 100%;
+        overflow: scroll;
+    }
+
+    #kid_list{
+        left: 0;
+        width: 100%;
+        overflow: scroll;
+    }
+    #dia_list{
+        left: 0;
+        width: 100%;
+        overflow: scroll;
+    }
+    
+    .hexagon1 {
+        display: none;
+    }
+
+    .hexagon2 {
+        display:none;
+    }
+    .footer-h1 h1{
+        font-size: 20px;
+    }
+    .users{
+        width: 300px;
+    }
+    #chatbox{
+        right: 0%;
+        width: 100%;
+        height: 60%;
+    
+    } 
+    .chat-container {
+        width:90%;
+        height: 90%;
+    }  
+    #chat-form input{
+        width: 80%;
+    }
+   
+}
+}

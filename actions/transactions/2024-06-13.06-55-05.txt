@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-13
+Transaction Time: 06:55:05
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+NITROFURANTOIN 100MG - 7 x 5
+GREEN CROSS REGULAR 70% 150ML - 1 x 39
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 100
+-----------------------------------------
+Total: 74.00
+Change: 26
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

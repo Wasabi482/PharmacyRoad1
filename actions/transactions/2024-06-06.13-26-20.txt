@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 13:26:20
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+URSEODEOXYCHOLIC ACID 300MG - 5 x 42
+LOSARTAN 50MG - 12 x 5
+SOLMUX 200MG/60ML  - 5 x 130
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 1000
+-----------------------------------------
+Total: 920.00
+Change: 80
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

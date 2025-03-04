@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-07
+Transaction Time: 22:57:36
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+MULTIVITAMINS  CAPSULE  - 20 x 2
+RIFAMPICIN 450MG - 10 x 9
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 200
+-----------------------------------------
+Total: 130.00
+Change: 70
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

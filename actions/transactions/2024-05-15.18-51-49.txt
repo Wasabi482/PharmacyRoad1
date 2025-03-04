@@ -1,0 +1,20 @@
+----------------------------------------------
+Your Establishment
+Proprietor: Proprietor's Name
+Address
+Contact: Contact Number
+----------------------------------------------
+Transaction Date: 2024-05-15
+Transaction Time: 18:51:49
+----------------------------------------------
+Transacted By: frontend2----------------------------------------------
+Items:
+ACYCLOVIR 400MG - 1 x 12
+----------------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 12
+----------------------------------------------
+Total: 12.00
+Change: 0
+----------------------------------------------
+Receipt is valid for 30 days.

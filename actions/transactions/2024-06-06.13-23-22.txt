@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 13:23:22
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+NIDO FORTIFIED 1.6KG - 1 x 835
+ALLERTA 16MG - 3 x 30
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 1000
+-----------------------------------------
+Total: 925.00
+Change: 75
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

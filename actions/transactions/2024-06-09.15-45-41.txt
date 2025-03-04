@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-09
+Transaction Time: 15:45:41
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+BIOGESIC  - 20 x 4.5
+CETIRIZINE 30MG - 5 x 3
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 105
+-----------------------------------------
+Total: 105.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

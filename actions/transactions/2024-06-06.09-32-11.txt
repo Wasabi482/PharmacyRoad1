@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 09:32:11
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+PROPAN W/ IRON  - 3 x 33
+FOLEY CATHETER FR 12  - 3 x 25
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 200
+-----------------------------------------
+Total: 174.00
+Change: 26
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

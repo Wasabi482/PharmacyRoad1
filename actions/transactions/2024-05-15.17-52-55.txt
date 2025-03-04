@@ -1,0 +1,19 @@
+----------------------------------------------
+Your Establishment
+Proprietor: Proprietor's Name
+Address
+Contact: Contact Number
+----------------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 15
+----------------------------------------------
+Items:
+ACYCLOVIR 100MG - 1 x 15
+----------------------------------------------
+Total: 15.00
+Change: 0
+----------------------------------------------
+Transaction Date: 2024-05-15
+Transaction Time: 17:52:55
+----------------------------------------------
+Receipt is valid for 30 days.

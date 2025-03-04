@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-16
+Transaction Time: 14:46:33
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+GREEN CROSS W/ MOISTURIZER 70% 250ML - 1 x 58
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 58
+-----------------------------------------
+Total: 58.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

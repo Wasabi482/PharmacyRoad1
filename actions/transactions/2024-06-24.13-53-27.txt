@@ -1,0 +1,27 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-24
+Transaction Time: 13:53:27
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+IRBESARTAN 150MG - 10 x 15
+LACTUM (1-3) MILK 2KG - 1 x 1195
+EQ DRY S X 40  - 1 x 330
+MEDICINE DROPPER  - 1 x 10
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 1690
+-----------------------------------------
+Total: 1685.00
+Change: 5
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

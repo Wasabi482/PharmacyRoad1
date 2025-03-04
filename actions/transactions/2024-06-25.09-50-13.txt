@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-25
+Transaction Time: 09:50:13
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+OFLOXACIN 400MG - 10 x 15
+AMPICILLIN VIAL 500MG - 10 x 45
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 600
+-----------------------------------------
+Total: 600.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

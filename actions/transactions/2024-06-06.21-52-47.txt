@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 21:52:47
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+CETIRIZINE 30MG - 5 x 3
+BB JR (1-3) 150G - 1 x 65
+BB FORTIFIED 750G - 1 x 270
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 500
+-----------------------------------------
+Total: 350.00
+Change: 150
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 07:37:10
+-----------------------------------------
+Transacted By: madam
+-----------------------------------------
+Items:
+GREEN CROSS REGULAR 70% 250ML - 1 x 55
+CETIRIZINE 30MG - 10 x 3
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 100
+-----------------------------------------
+Total: 85.00
+Change: 15
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

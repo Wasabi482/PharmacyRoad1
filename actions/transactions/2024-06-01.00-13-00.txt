@@ -1,0 +1,21 @@
+----------------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+----------------------------------------------
+Transaction Date: 2024-06-01
+Transaction Time: 00:13:00
+----------------------------------------------
+Transacted By: frontend2----------------------------------------------
+Items:
+NESTOGEN 1 135G - 1 x 78
+ACYCLOVIR 100MG - 1 x 15
+----------------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 100
+----------------------------------------------
+Total: 93.00
+Change: 7
+----------------------------------------------
+Receipt is valid for 30 days.

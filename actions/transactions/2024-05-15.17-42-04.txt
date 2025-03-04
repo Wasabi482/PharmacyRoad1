@@ -1,0 +1,19 @@
+----------------------------------------------
+Your Establishment
+Proprietor: Proprietor's Name
+Address
+Contact: Contact Number
+----------------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 100
+----------------------------------------------
+Items:
+ACETYLCYSTEINE 200MG - 1 x 18
+----------------------------------------------
+Total: 18.00
+Change: 82
+----------------------------------------------
+Transaction Date: 2024-05-15
+Transaction Time: 17:42:04
+----------------------------------------------
+Receipt is valid for 30 days.

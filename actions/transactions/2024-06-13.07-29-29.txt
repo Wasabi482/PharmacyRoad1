@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-13
+Transaction Time: 07:29:29
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+BIOGESIC ORANGE SYRUP (250MG) 60ML  - 1 x 136
+SUPRA NEURON  - 21 x 18
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 514
+-----------------------------------------
+Total: 514.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

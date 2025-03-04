@@ -1,0 +1,27 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-07
+Transaction Time: 16:43:30
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+BIOFIT TEA  - 20 x 9
+ACETYLCYSTEINE 200MG - 20 x 18
+ENFAMIL A+ 2 (6-12) 1.8KG - 1 x 2960
+SALBUTAMOL 4MG - 10 x 2
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 4000
+-----------------------------------------
+Total: 3520.00
+Change: 480
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

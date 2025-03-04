@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-09
+Transaction Time: 19:11:46
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+NAPROXEN SODIUM 500MG - 10 x 8
+NEOZEP SYRUP 60ML - 1 x 116
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 200
+-----------------------------------------
+Total: 196.00
+Change: 4
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

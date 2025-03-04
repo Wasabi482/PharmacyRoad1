@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-22
+Transaction Time: 16:37:43
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+IBUPROFEN 200MG - 5 x 2
+BIOGESIC  - 10 x 4.5
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 55
+-----------------------------------------
+Total: 55.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-24
+Transaction Time: 21:50:57
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+SANITARY BALM 20G - 1 x 35
+AMOXICILLINE 250MG (CAPSULE)  - 10 x 3
+WHITE FLOWER #5  - 1 x 45
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 110
+-----------------------------------------
+Total: 110.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

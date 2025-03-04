@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-24
+Transaction Time: 16:02:49
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+CAPTOPRIL 25MG - 10 x 3
+CELECOXIB 400MG - 3 x 37
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 150
+-----------------------------------------
+Total: 141.00
+Change: 9
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

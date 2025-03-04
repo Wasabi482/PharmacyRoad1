@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-27
+Transaction Time: 11:22:14
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+TRANEXAMIC ACID 100MG/ML (500MG/5ML)  - 3 x 125
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 375
+-----------------------------------------
+Total: 375.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

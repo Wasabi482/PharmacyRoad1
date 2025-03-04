@@ -1,0 +1,24 @@
+------------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+------------------------------------------
+Transaction Date: 2024-06-01
+Transaction Time: 00:25:19
+------------------------------------------
+Transacted By: frontend2
+------------------------------------------
+Items:
+ALLOPURINOL 100MG - 10 x 2
+NESTOGEN 1 135G - 1 x 78
+GREEN CROSS REGULAR 70% 75ML - 1 x 26
+HAPPY PANTS XXL X 4  - 1 x 47
+------------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 171
+------------------------------------------
+Total: 171.00
+Change: 0
+------------------------------------------
+Receipt is valid for 30 days.

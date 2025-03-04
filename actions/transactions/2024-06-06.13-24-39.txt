@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 13:24:39
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+NAPROXEN SODIUM 500MG - 14 x 8
+TRIANGULAR BANDAGE  - 1 x 78
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 190
+-----------------------------------------
+Total: 190.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-08
+Transaction Time: 15:13:18
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+FUROSEMIDE 20MG - 14 x 1
+ETORICOXIB 90MG - 14 x 32
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 500
+-----------------------------------------
+Total: 462.00
+Change: 38
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

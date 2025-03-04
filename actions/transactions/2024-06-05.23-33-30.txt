@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 23:33:30
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+VIT. B-COMPLEX (NEURONERVE)  - 1 x 5
+SODIUM ASCORBATE  - 10 x 5
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 55
+-----------------------------------------
+Total: 55.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

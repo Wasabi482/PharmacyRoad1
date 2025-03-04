@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alternative Medicine Chatbot</title>
+    <style>
+        #chat_body {
+            font-family: Arial, sans-serif;
+        }
+        .chat-container {
+            width: 400px;
+            margin: 50px auto;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .chat-container h2 {
+            margin-top: 0;
+        }
+        .chat-messages {
+            margin-bottom: 20px;
+            overflow-y: scroll;
+            max-height: 200px;
+        }
+        .user-message {
+            margin-bottom: 10px;
+            font-weight: bold;
+            color: blue;
+        }
+        .bot-message {
+            margin-bottom: 10px;
+            font-style: italic;
+            color: green;
+        }
+    </style>
+</head>
+<body id="chat_body">
+    <div class="chat-container">
+        <h2>Alternative Medicine Chatbot</h2>
+        <div class="chat-messages" id="chat-messages">
+            <div class="bot-message">Hello! How can I assist you today?</div>
+        </div>
+        <form id="chat-form">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('chat-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            sendMessage();
+        });
+
+        function sendMessage() {
+            var userInput = document.getElementById('user-input').value;
+            appendMessage('user', userInput);
+            
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', 'index.php', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var botResponse = xhr.responseText;
+                    appendMessage('bot', botResponse);
+                }
+            };
+            xhr.send('input=' + userInput);
+        }
+
+        function appendMessage(sender, message) {
+            var chatMessages = document.getElementById('chat-messages');
+            var messageDiv = document.createElement('div');
+            messageDiv.className = sender + '-message';
+            messageDiv.textContent = message;
+            chatMessages.appendChild(messageDiv);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+    </script>
+</body>
+</html>

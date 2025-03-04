@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-27
+Transaction Time: 11:20:14
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+SURGICAL TAPE (PARTNERS) 1/2 INCH  - 1 x 29
+GAUZE PAD 4X4  - 5 x 5
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 54
+-----------------------------------------
+Total: 54.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

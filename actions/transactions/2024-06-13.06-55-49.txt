@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-13
+Transaction Time: 06:55:49
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+SALBUTAMOL 2MG - 14 x 1
+CETIRIZINE 30MG - 12 x 3
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 50
+-----------------------------------------
+Total: 50.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-08
+Transaction Time: 07:50:10
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+PARACETAMOL 500MG  - 14 x 3
+LAGUNDI 600MG - 7 x 8
+LIVER AID CAPSULE  - 10 x 21
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 308
+-----------------------------------------
+Total: 308.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

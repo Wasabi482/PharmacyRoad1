@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-07
+Transaction Time: 18:59:48
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+ERYTHROMYCINE 500MG - 10 x 9
+ALGESIA TABLET  - 5 x 55
+GREEN CROSS REGULAR 70% 500ML - 2 x 98
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 600
+-----------------------------------------
+Total: 561.00
+Change: 39
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

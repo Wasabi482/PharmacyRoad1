@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-16
+Transaction Time: 17:35:38
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+AMOXICILLINE 500MG (CAPSULE)  - 12 x 4
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 48
+-----------------------------------------
+Total: 48.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

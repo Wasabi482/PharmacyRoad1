@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-22
+Transaction Time: 17:40:30
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+ALGESIA TABLET  - 10 x 55
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 550
+-----------------------------------------
+Total: 550.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

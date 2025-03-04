@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-22
+Transaction Time: 17:41:28
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+TRIMETAZIDINE 35MG - 10 x 9
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 90
+-----------------------------------------
+Total: 90.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

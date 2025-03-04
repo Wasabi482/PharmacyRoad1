@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-11
+Transaction Time: 11:29:52
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+PREDNISONE 5MG - 20 x 2
+LAGUNDI 600MG - 14 x 8
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 152
+-----------------------------------------
+Total: 152.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 19:32:07
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+SALBUTAMOL 4MG - 2 x 2
+BIOGESIC  - 10 x 4.5
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 50
+-----------------------------------------
+Total: 49.00
+Change: 1
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

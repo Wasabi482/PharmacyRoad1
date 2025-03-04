@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-22
+Transaction Time: 17:37:13
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+URSEODEOXYCHOLIC ACID 300MG - 1 x 42
+ENSURE GOLD VANILLA 400G - 1 x 925
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 1000
+-----------------------------------------
+Total: 967.00
+Change: 33
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

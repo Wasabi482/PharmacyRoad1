@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-07
+Transaction Time: 09:40:58
+-----------------------------------------
+Transacted By: madam
+-----------------------------------------
+Items:
+BIRCHTREE FRTD MLK 1.0KG - 1 x 310
+HAPPY PANTS XXL X 12  - 1 x 125
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 500
+-----------------------------------------
+Total: 435.00
+Change: 65
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-21
+Transaction Time: 13:13:48
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+CETIRIZINE 30MG - 10 x 3
+NEOZEP SYRUP 60ML - 1 x 116
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 150
+-----------------------------------------
+Total: 146.00
+Change: 4
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

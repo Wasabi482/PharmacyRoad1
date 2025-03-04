@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-07-01
+Transaction Time: 13:11:28
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+IRBESARTAN 150MG - 5 x 15
+GREEN CROSS W/ MOISTURIZER 70% 250ML - 2 x 58
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 200
+-----------------------------------------
+Total: 191.00
+Change: 9
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

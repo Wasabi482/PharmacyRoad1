@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-08
+Transaction Time: 09:53:48
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+ASCOF FORTE CAPSULE  - 10 x 9
+TRIANGULAR BANDAGE  - 2 x 78
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 250
+-----------------------------------------
+Total: 246.00
+Change: 4
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

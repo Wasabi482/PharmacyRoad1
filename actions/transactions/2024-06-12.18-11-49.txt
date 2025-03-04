@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-12
+Transaction Time: 18:11:49
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+GREEN CROSS ETHYL ALCOHOL 70% 150ML - 2 x 40
+BIOGESIC  - 10 x 4.5
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 150
+-----------------------------------------
+Total: 125.00
+Change: 25
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

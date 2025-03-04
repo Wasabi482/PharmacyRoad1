@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-12
+Transaction Time: 19:55:54
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+ATENOLOL 50MG - 5 x 4
+AMBROXOL 75MG - 10 x 18
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 200
+-----------------------------------------
+Total: 200.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

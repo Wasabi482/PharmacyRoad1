@@ -1,0 +1,22 @@
+----------------------------------------------
+Your Establishment
+Proprietor: Proprietor's Name
+Address
+Contact: Contact Number
+----------------------------------------------
+Transaction Date: 2024-05-30
+Transaction Time: 23:55:13
+----------------------------------------------
+Transacted By: frontend1----------------------------------------------
+Items:
+ACETYLCYSTEINE 200MG - 1 x 18
+GREEN CROSS REGULAR 70% 75ML - 1 x 26
+CANDESARTAN 8MG - 1 x 12
+----------------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 60
+----------------------------------------------
+Total: 56.00
+Change: 4
+----------------------------------------------
+Receipt is valid for 30 days.

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-07
+Transaction Time: 14:14:32
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+GLICLAZIDE 30MG - 3 x 6
+BETAHISTINE 8MG - 2 x 14
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 50
+-----------------------------------------
+Total: 46.00
+Change: 4
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

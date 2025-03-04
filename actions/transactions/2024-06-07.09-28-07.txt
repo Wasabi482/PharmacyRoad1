@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-07
+Transaction Time: 09:28:07
+-----------------------------------------
+Transacted By: madam
+-----------------------------------------
+Items:
+LACTUM (0-6) 150G - 2 x 116
+HAPPY PANTS L X 12  - 1 x 105
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 337
+-----------------------------------------
+Total: 337.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-20
+Transaction Time: 22:38:33
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+DYPHENHYDRAMINE 50MG/ML  - 1 x 90
+SARIDON  - 10 x 8
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 170
+-----------------------------------------
+Total: 170.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

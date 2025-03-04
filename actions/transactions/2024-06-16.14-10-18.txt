@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-16
+Transaction Time: 14:10:18
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+LAGUNDI 300MG - 10 x 4
+NEOZEP DROPS  - 1 x 113
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 200
+-----------------------------------------
+Total: 153.00
+Change: 47
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

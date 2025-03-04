@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-19
+Transaction Time: 19:24:56
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+METOPROLOL 50MG - 10 x 2
+DIGOXINE 250MG - 12 x 5
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 90
+-----------------------------------------
+Total: 80.00
+Change: 10
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

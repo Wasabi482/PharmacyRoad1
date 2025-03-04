@@ -1,0 +1,35 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-01
+Transaction Time: 00:36:42
+-----------------------------------------
+Transacted By: frontend2
+-----------------------------------------
+Items:
+BIOGESIC STRAWBERRY SYRUP 60ML 250MG - 1 x 134
+ABBOCATH GAUGE #18  - 2 x 65
+BB FORTIFIED 1.2KG - 1 x 430
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 700
+-----------------------------------------
+Total: 694.00
+Change: 6
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------
+-
+-
+-
+-
+-
+-
+-
+-
+-

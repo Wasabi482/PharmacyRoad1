@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-29
+Transaction Time: 10:57:42
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+HYOSCINE AMPULE 20MG/ML  - 10 x 68
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 1000
+-----------------------------------------
+Total: 680.00
+Change: 320
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

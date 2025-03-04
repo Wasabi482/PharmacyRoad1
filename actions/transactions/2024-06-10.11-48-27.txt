@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-10
+Transaction Time: 11:48:27
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+BETAHISTINE 8MG - 14 x 14
+EQ PANTS XL X 40  - 1 x 358
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 554
+-----------------------------------------
+Total: 554.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

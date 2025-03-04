@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-11-27
+Transaction Time: 11:51:02
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+NEUROBION TAB - 1 x 27
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 27
+-----------------------------------------
+Total: 27.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 09:29:02
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+PARACETAMOL + B-COMPLEX (PB CARE)  - 7 x 18
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 126
+-----------------------------------------
+Total: 126.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 16:11:18
+-----------------------------------------
+Transacted By: frontend1
+-----------------------------------------
+Items:
+ALLOPURINOL 300MG - 5 x 4
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 20
+-----------------------------------------
+Total: 20.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 07:54:20
+-----------------------------------------
+Transacted By: madam
+-----------------------------------------
+Items:
+GAUZE PAD 2X2  - 5 x 2
+GREEN CROSS REGULAR 70% 150ML - 1 x 39
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 50
+-----------------------------------------
+Total: 49.00
+Change: 1
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

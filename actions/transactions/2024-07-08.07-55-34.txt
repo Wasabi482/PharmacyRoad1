@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-07-08
+Transaction Time: 07:55:34
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+ENSURE GOLD VANILLA 400G - 1 x 925
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 1000
+-----------------------------------------
+Total: 925.00
+Change: 75
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

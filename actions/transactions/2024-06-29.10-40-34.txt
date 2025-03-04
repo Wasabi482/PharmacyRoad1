@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-29
+Transaction Time: 10:40:34
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+METHYLPREDNISOLONE 16MG - 10 x 25
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 300
+-----------------------------------------
+Total: 250.00
+Change: 50
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

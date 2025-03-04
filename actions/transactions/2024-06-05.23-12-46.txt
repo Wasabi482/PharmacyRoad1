@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 23:12:46
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+METFORMIN 500MG - 3 x 2
+MULTIVITAMINS + IRON  - 10 x 3
+BONAMINE PEDIA  - 10 x 15
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 186
+-----------------------------------------
+Total: 186.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

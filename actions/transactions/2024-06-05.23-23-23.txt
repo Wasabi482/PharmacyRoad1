@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 23:23:23
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+EQ PANTS XXL X 10  - 1 x 99
+IMODIUM  - 7 x 19
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 232
+-----------------------------------------
+Total: 232.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

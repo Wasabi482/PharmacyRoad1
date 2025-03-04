@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-27
+Transaction Time: 11:18:46
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+CLOPIDOGREL 75MG - 10 x 9
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 90
+-----------------------------------------
+Total: 90.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

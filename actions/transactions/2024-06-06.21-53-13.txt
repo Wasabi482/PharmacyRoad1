@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-06
+Transaction Time: 21:53:13
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+LAGUNDI 300MG - 5 x 4
+ACETYLCYSTEINE 200MG - 2 x 18
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 56
+-----------------------------------------
+Total: 56.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 17:20:21
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+CETIRIZINE 30MG - 3 x 3
+TRUST CONDOM  - 3 x 48
+GREEN CROSS ETHYL ALCOHOL 70% 75ML - 2 x 26
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 500
+-----------------------------------------
+Total: 205.00
+Change: 295
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,27 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-11
+Transaction Time: 11:33:53
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+IRBESARTAN 150MG - 21 x 15
+PREGABALIN 75MG - 10 x 24
+VIT. B-COMPLEX (NEURONERVE)  - 10 x 5
+MEFENAMIC 500MG  (CAPSULE)  - 10 x 4
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 645
+-----------------------------------------
+Total: 645.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

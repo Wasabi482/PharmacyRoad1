@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-09
+Transaction Time: 08:28:09
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+ATORVASTATIN 40MG - 14 x 18
+GABAPENTIN 300MG - 12 x 48
+CO-AMOXICLAV 625MG - 10 x 27
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 1100
+-----------------------------------------
+Total: 1098.00
+Change: 2
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

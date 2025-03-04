@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2025-02-12
+Transaction Time: 09:46:12
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+ACETYLCYSTEINE 200MG - 4 x 18
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 100
+-----------------------------------------
+Total: 72.00
+Change: 28
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

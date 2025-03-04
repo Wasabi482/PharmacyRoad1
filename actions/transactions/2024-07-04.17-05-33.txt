@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-07-04
+Transaction Time: 17:05:33
+-----------------------------------------
+Transacted By: cindy
+-----------------------------------------
+Items:
+EQ DRY M X 54  - 2 x 580
+SALBUTAMOL + GUIAFENESIN (CAPSULE)  - 10 x 4
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 2000
+-----------------------------------------
+Total: 1200.00
+Change: 800
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

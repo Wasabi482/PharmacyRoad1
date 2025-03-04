@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 23:15:25
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+HAPPY DRY PANTS XL X 30  - 1 x 240
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 240
+-----------------------------------------
+Total: 240.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

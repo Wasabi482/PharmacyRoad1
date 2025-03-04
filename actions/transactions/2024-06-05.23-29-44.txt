@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-05
+Transaction Time: 23:29:44
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+LOSARTAN 100MG - 14 x 8
+BETAHISTINE 8MG - 7 x 14
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 210
+-----------------------------------------
+Total: 210.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

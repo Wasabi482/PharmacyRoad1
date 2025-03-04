@@ -1,0 +1,23 @@
+----------------------------------------------
+Your Establishment
+Proprietor: Proprietor's Name
+Address
+Contact: Contact Number
+----------------------------------------------
+Transaction Date: 2024-06-01
+Transaction Time: 00:31:35
+----------------------------------------------
+Transacted By: frontend2----------------------------------------------
+Items:
+ALLOPURINOL 100MG - 1 x 2
+NESTOGEN 1 340G - 1 x 195
+HAPPY PANTS XXL X 4  - 2 x 47
+GREEN CROSS REGULAR 70% 150ML - 1 x 39
+----------------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 330
+----------------------------------------------
+Total: 330.00
+Change: 0
+----------------------------------------------
+Receipt is valid for 30 days.

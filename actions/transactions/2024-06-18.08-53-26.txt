@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-18
+Transaction Time: 08:53:26
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+MEFENAMIC 500MG  (TABLET)  - 10 x 5
+SOLMUX ADVANCE W/ ZINC  - 10 x 15
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 200
+-----------------------------------------
+Total: 200.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

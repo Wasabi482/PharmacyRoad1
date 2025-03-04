@@ -1,0 +1,26 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-08
+Transaction Time: 22:23:40
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+SANITARY BALM 20G - 1 x 35
+CELECOXIB 200MG - 10 x 17
+CLOPIDOGREL 75MG - 21 x 9
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 400
+-----------------------------------------
+Total: 394.00
+Change: 6
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,24 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-29
+Transaction Time: 10:56:23
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+NITROFURANTOIN 100MG - 25 x 5
+-----------------------------------------
+Mode of Payment: Cash
+Amount Tendered: 125
+-----------------------------------------
+Total: 125.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------

@@ -1,0 +1,25 @@
+-----------------------------------------
+Road 1 Pharmacy
+Proprietor: Ronaldo Borbon
+Unit 2 Ipo road, Minuyan, Sjdm, Bulacan
+Contact: Contact Number
+-----------------------------------------
+Transaction Date: 2024-06-13
+Transaction Time: 07:32:27
+-----------------------------------------
+Transacted By: juliet
+-----------------------------------------
+Items:
+PLEMEX  - 14 x 9
+MEFENAMIC 500MG  (TABLET)  - 28 x 5
+-----------------------------------------
+Mode of Payment: Gcash
+Amount Tendered: 266
+-----------------------------------------
+Total: 266.00
+Change: 0
+-----------------------------------------
+Receipt is valid for 30 days.
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------
